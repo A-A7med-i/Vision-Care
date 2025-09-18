@@ -160,6 +160,7 @@ VisionCare/
 │   ├── 03_model_architecture.md
 │   ├── 04_training_loss.md
 │   └── 05_pipeline_results.md
+│
 ├── requirements.txt             # Python dependencies
 ├── setup.py                     # Project setup script
 ├── README.md                    # Project documentation
