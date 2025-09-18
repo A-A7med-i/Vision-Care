@@ -154,6 +154,12 @@ VisionCare/
 ├── checkpoint/                  # Model checkpoints (saved weights)
 │   └── best_model.pth           # Example: best model weights
 │
+├── docs/                        # Project documentation (Markdown files)
+│   ├── 01_pipeline_overview.md
+│   ├── 02_preprocessing.md
+│   ├── 03_model_architecture.md
+│   ├── 04_training_loss.md
+│   └── 05_pipeline_results.md
 ├── requirements.txt             # Python dependencies
 ├── setup.py                     # Project setup script
 ├── README.md                    # Project documentation
