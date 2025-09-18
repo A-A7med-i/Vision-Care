@@ -1,0 +1,14 @@
+# Core ML and Data Science
+albumentations
+opencv-python
+scikit-learn
+dataclasses
+torchvision
+matplotlib
+polars
+torch
+numpy
+tqdm
+
+# For type hints and dataclasses (Python 3.7+ includes dataclasses)
+# pathlib and typing are standard library
