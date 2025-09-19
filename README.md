@@ -111,12 +111,6 @@ You can run the training process using either the main pipeline script or the de
     python -m src.pipeline.main
     ```
 
-- **Direct training pipeline:**
-
-    ```bash
-    python -m src.pipeline.training_pipeline
-    ```
-
 ## Project Structure
 
 The project is organized as follows:
