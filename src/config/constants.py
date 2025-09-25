@@ -11,7 +11,7 @@ TEST_IMAGES = IMAGE_PATHS / "b. Testing Set"
 CSV_FILES = BASE_PATH / "2. Groundtruths"
 LABEL_TRAIN = CSV_FILES / "a. IDRiD_Disease Grading_Training Labels.csv"
 LABEL_TEST = CSV_FILES / "b. IDRiD_Disease Grading_Testing Labels.csv"
-CHECKPOINT_PATH = SCRIPT_DIR / "checkpoint"
+CHECKPOINT_PATH = SCRIPT_DIR / "checkpoint" / "best_model.pth"
 HISTORY_PLOT_PATH = SCRIPT_DIR / "history.png"
 
 
